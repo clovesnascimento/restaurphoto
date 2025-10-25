@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Restorer",
+  "description": "An application that uses AI to restore and modernize old vintage photos. Upload a photo to see it transformed into a high-quality digital portrait with updated colors, textures, and a modern aesthetic while preserving the original's essence.",
+  "requestFramePermissions": []
+}
